@@ -1,0 +1,32 @@
+div {
+    font-family: 'Arial', sans-serif;
+    background-color: #fef6e4;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+  }
+
+  .card {
+    background-color: #fff9c4;
+    padding: 20px;
+    margin: 50px auto;
+    border-radius: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+  }
+
+  h1 {
+    color: #ff6f61;
+  }
+
+  p {
+    font-size: 1.2em;
+    line-height: 1.5;
+    color: #4e342e;
+  }
+
+  .signature {
+    margin-top: 30px;
+    font-style: italic;
+    color: #6d4c41;
+  }
